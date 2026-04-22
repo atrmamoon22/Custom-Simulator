@@ -1,0 +1,3 @@
+/home/mamoon/devl/SImulator/build/CMakeFiles/Simulator.dir
+/home/mamoon/devl/SImulator/build/CMakeFiles/edit_cache.dir
+/home/mamoon/devl/SImulator/build/CMakeFiles/rebuild_cache.dir
